@@ -1,0 +1,6 @@
+# onBoot = ". restore.sh"
+# run = ["bash", "restore.sh"]
+
+run = ["bash", "main.sh"]
+
+entrypoint = ".replit"

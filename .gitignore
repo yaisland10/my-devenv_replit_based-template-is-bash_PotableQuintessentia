@@ -1,0 +1,5 @@
+!.bashrc
+ignore
+*.swp
+*.bash_history
+.viminfo
