@@ -4,3 +4,6 @@ set viminfofile=/home/runner/my-devenvreplitbased-template-is-bashPotableQuintes
 
 colorscheme desert
 set number relativenumber
+
+set formatoptions-=cro 
+
